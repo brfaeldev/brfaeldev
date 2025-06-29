@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Bruno (Brfael)</h1>
 
-<!--
-**brfaeldev/brfaeldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Programador em construção | Aprendendo todos os dias  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias que estou aprendendo:
+
+- 🐍 **Python**
+- ☕ **Java**
+- 🦀 **Rust**
+
+---
+
+### 🎯 Sobre mim:
+
+- 📚 Estudante de TI documentando minha jornada dev  
+- 🎥 Criador de conteúdo no YouTube: tutoriais, estudos, progresso real  
+- 🧠 Curioso por tecnologia, aprendizado constante e rotina disciplinada  
+- 🏋️ Dev que também cuida do corpo: código e treino todo dia!
+
+---
+
+### 🌐 Me acompanhe:
+
+- 📺 [YouTube: @brfaeldev](https://youtube.com/@brfaeldev)
+- 🐦 [X (Twitter): @brfaeldev](https://x.com/brfaeldev)
+- 📸 [Instagram: @brfael.dev](https://instagram.com/brfael.dev)
+
+---
+
+### 📬 Contato
+
+Se quiser trocar ideia ou colaborar:  
+**brfael.dev@gmail.com**
+
+---
