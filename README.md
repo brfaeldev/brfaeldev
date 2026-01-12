@@ -6,14 +6,6 @@
 
 ---
 
-### 💻 Tecnologias que estou aprendendo:
-
-- 🐍 **Python**
-- ☕ **Java**
-- 🦀 **Rust**
-
----
-
 ### 🎯 Sobre mim:
 
 - 📚 Estudante de TI documentando minha jornada dev  
